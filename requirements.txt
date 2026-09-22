@@ -1,0 +1,6 @@
+streamlit==1.64.0
+sqlalchemy==2.0.54
+pymysql==1.2.3
+python-dotenv==1.2.3
+bcrypt==5.0.0
+pandas==3.0.6

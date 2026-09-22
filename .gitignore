@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+crud/__pycache__/
+pages/__pycache__/
+utils/__pycache__/
