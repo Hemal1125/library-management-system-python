@@ -12,6 +12,7 @@ A Python rebuild of a Java/Spring Boot Library Management System, using Streamli
 - Admin dashboard with library statistics
 
 ## Tech Stack
+- **Language:** Python 3.12
 - **Frontend/UI:** Streamlit
 - **Backend/ORM:** SQLAlchemy
 - **Database:** MySQL
